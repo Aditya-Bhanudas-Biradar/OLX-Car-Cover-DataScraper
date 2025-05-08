@@ -41,8 +41,8 @@ Before running the script, ensure you have the following installed:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/olx-scraper-assignment.git
-    cd olx-scraper-assignment
+    git clone https://github.com/Aditya-Bhanudas-Biradar/OLX-Car-Cover-DataScraper.git
+    cd OLX-Car-Cover-DataScraper
     ```
 
 2.  **Create a Virtual Environment (Recommended):**
